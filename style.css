@@ -1,0 +1,36 @@
+body{
+    background-color: #001b4b;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding-bottom: 50px;
+}
+h1{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: white;
+    font-family: "Funnel Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 50px;
+}
+
+h1.padding1{
+    padding-top: 50px;
+}
+
+h1.padding2{
+    padding-top: 50px;
+}
+
+h1.padding3{
+    padding-top: 100px;
+}
+h1.border{
+    border: solid;
+}
